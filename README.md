@@ -1,4 +1,5 @@
 # Student Management System
+live link:https://student-management-system-muv7.onrender.com/admin/
 
 A full-stack CRUD web application built with **React**, **Django REST Framework**, and **SQLite**.
 
